@@ -54,7 +54,7 @@ print('Predicted CO2 for the corresponding weight and volume:',predictedCO2)
 
 ```
 ## Output:
-![OUTPUT](ok.png)
+![OUTPUT](ok.PNG)
 
 
 <br>
