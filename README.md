@@ -28,7 +28,7 @@ Print the parameters of the linear function.
 ## Program:
 ```
 
-#Name:prethiveerajan
+#Name:Prethiveerajan P
 #Ref. No:21500340
 
 import pandas as pd
